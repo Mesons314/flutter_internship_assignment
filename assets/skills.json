@@ -1,0 +1,16 @@
+[
+  {"name": "Running", "level": "Basic", "image": "assets/images/svg/running.svg"},
+  {"name": "Jumping", "level": "Basic", "image": "assets/images/svg/jumping.svg"},
+  {"name": "Kicking", "level": "Basic", "image": "assets/images/svg/kicking.svg"},
+
+  {"name": "Spiking", "level": "Advanced", "image": "assets/images/svg/spiking.svg"},
+  {"name": "Dribbling", "level": "Intermediate", "image": "assets/images/svg/dribbling.svg"},
+  {"name": "Juggling", "level": "Intermediate", "image": "assets/images/svg/juggling.svg"},
+  {"name": "Volleying", "level": "Intermediate", "image": "assets/images/png/volleying.png"},
+  {"name": "Vaulting", "level": "Advanced", "image": "assets/images/svg/vaulting.svg"},
+  {"name": "Swimming", "level": "Advanced", "image": "assets/images/svg/swimming.svg"},
+  {"name": "Tackling", "level": "Advanced", "image": "assets/images/png/tackling.png"},
+  {"name": "Throwing", "level": "Basic", "image": "assets/images/svg/throwing.svg"},
+  {"name": "Catching", "level": "Basic", "image": "assets/images/svg/catching.svg"},
+  {"name": "Shooting", "level": "Intermediate", "image": "assets/images/png/shooting.png"}
+]
