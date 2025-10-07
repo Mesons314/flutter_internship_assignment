@@ -53,7 +53,7 @@ The data is parsed from a local JSON file and displayed dynamically. Each skill 
 ---
 
 ## 🎥 Demo Video
-[![Watch the Demo](https://drive.google.com/drive/folders/1uB7YlP3XekbSCFrSBQCM-VgedemJQpHA?usp=drive_link)
+[![Watch the Demo](https://drive.google.com/file/d/1Bfnt6lZcxslvqDHfaXJv5EyVamHtfg8o/view?usp=sharing)
 
 ---
 
