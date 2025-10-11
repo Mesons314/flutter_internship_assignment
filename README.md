@@ -59,14 +59,17 @@ The data is parsed from a local JSON file and displayed dynamically. Each skill 
 
 ### 1. Clone the repository
    ```bash
-   https://github.com/Mesons314/flutter_internship_assignment.git
-
-   Navigate to project directory
-
+   git clone https://github.com/Mesons314/flutter_internship_assignment.git
+```
+### 2.Navigate to project directory
+```bash
    cd flutter_internship_assignment 
-
-   Install dependencies
+```
+### 3.Install dependencies
+```bash
    flutter pub get
-   
-   Run the app
+   ```
+### 4.Run the app
+```bash
    flutter run
+```
